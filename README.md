@@ -14,6 +14,6 @@ This is a working Jupyter notebook which were used for research published in [Re
    <a id="refKisil21c"></a>
 1. V. V. Kisil, *Metamorphism---an Integral Transform Reducing the Order of a Differential Equation*, 2021.
 
-<a id="refKisil21b"></a>
+   <a id="refKisil21b"></a>
 2.  V. V. Kisil, *Symbolic calculation for covariant transform on the SSR group*, [CodeOcean capsule](https://codeocean.com/capsule/9494187/), 2021.
 
