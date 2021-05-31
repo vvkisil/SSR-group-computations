@@ -16,5 +16,5 @@ Alternatively you can view the [processed HTML](http://www1.maths.leeds.ac.uk/~k
 1. V. V. Kisil, *Metamorphism---an Integral Transform Reducing the Order of a Differential Equation*, 2021, [arXiv:2105.12079](http://arxiv.org/abs/2105.12079).
 
    <a id="refKisil21b"></a>
-2.  V. V. Kisil, *Symbolic calculation for covariant transform on the SSR group*, [CodeOcean capsule](https://codeocean.com/capsule/9494187/), 2021.
+2.  V. V. Kisil, *Symbolic calculation for covariant transform on the SSR group*, [CodeOcean capsule](https://codeocean.com/capsule/2676832/tree), 2021.
 
