@@ -6,7 +6,10 @@ The SSR group stands for the semidirect product of the Heisenberg group and the 
 
 This is a working Jupyter notebook which were used for research published in [Ref.1](#refKisil21c). The notebook is very detailed, with numerous cross-checks of the correctness and supplementary computations. It may serve also as a demonstration of [pyGiNaC](http://moebinv.sourceforge.net/pyGiNaC.html) abilities for symbolic computations in actual research environment. 
 
-**Note:** *to execute the notebook you may need to [install software](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Software_installation_GUI_integration.ipynb).* Due to a recent "upgrade" of CoLab to Python 3.7 this notebook can not be used on that cloud service. If you do not have a local installation of  [pyGiNaC](#http://moebinv.sourceforge.net/pyGiNaC.html) then you can use a CodeOcean capsule [Ref.2](#refKisil21b).
+**Note:** to execute the notebook you need either
++ have a local installation of  [pyGiNaC](http://moebinv.sourceforge.net/pyGiNaC.html);
++ use Google Colab and [install software](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Software_installation_GUI_integration.ipynb) in your cloud service;
++ use a [CodeOcean capsule](https://codeocean.com/capsule/2676832/tree)  [Ref.2](#refKisil21b).
 
 Alternatively you can view the [processed HTML](http://www1.maths.leeds.ac.uk/~kisilv/SSR-group-computations/ssr_group.html).
 
