@@ -1,6 +1,6 @@
 # Symbolic calculation for covariant transform on the SSR group
 
-### [Vladimir V. Kisil](http://v-v-kisil.rf.gd/)
+### [Vladimir V. Kisil](http://v-v-kisil.scienceontheweb.net/)
 
 The SSR group stands for the semidirect product of the Heisenberg group and the ax+b group. We call it squeeze–shear–rotation (SSR) group by its action on the phase portrait of a Gaussian state. If  Gaussian is chosen as a vacuum state then the action of the Schrödinger–Jacobi group reduces to the action of the SSR group. We call the respective covariant transform (aka the coherent state transform) *metamorphism* for its transformation of partial differential equations [Ref.1](#refKisil21c). 
 
@@ -11,7 +11,7 @@ This is a working Jupyter notebook which were used for research published in [Re
 + use Google Colab and [install software](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Software_installation_GUI_integration.ipynb) in your cloud service;
 + use a [CodeOcean capsule](https://codeocean.com/capsule/2676832/tree)  [Ref.2](#refKisil21b).
 
-Alternatively you can view the [processed HTML](http://v-v-kisil.rf.gd/SSR-group-computations/ssr_group.html).
+Alternatively you can view the [processed HTML](http://v-v-kisil.scienceontheweb.net/SSR-group-computations/ssr_group.html).
 
 ## References
 
